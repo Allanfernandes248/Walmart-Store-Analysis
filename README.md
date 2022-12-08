@@ -1,6 +1,6 @@
 # Walmart-Store-Analysis
 
-##Problem Statement
+## Problem Statement
 Determine which Walmart locations are performing best and worst, and develop strategies to boost sales at underperforming locations relative to great locations.
 
 
